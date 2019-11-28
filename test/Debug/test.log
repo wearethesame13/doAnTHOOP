@@ -1,0 +1,13 @@
+﻿  ball.cpp
+  game.cpp
+C:\Users\leman\Downloads\test\test\ball.h(2,10): error C1083:  Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\leman\Downloads\test\test\game.h(2,10): error C1083:  Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  menu.cpp
+C:\Users\leman\Downloads\test\test\game.h(2,10): error C1083:  Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  paddle.cpp
+C:\Users\leman\Downloads\test\test\menu.h(3,9): error C1083:  Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  pauseMessage.cpp
+C:\Users\leman\Downloads\test\test\paddle.h(2,10): error C1083:  Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Generating Code...
+C:\Users\leman\Downloads\test\test\pauseMessage.h(3,10): error C1083:  Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
